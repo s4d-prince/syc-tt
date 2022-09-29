@@ -1,0 +1,15 @@
+$form-width: 300px;
+$form-bg: white;
+$form-rounding: 16px;
+$form-shadow: 8px 8px 4px rgb(0 0 0 / 25%);
+$form-padding: 20px;
+
+.form {
+    box-sizing: border-box;
+    width: $form-width;
+    max-width: $form-width;
+    box-shadow: $form-shadow;
+    border-radius: $form-rounding;
+    background: $form-bg;
+    padding: $form-padding;
+}

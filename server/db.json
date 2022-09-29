@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "login": "defaultUser",
+            "username": "defaultUser",
+            "password": "12345pwd",
+            "contacts_list": [
+                {
+                    "name": "Jon",
+                    "phoneNumber": "+1(234)567-8910",
+                    "address": "USA, NY, Any st., 42, 24"
+                },
+                {
+                    "name": "Anna",
+                    "phoneNumber": "+7(234)567-8910",
+                    "address": "Russia, Moscow, Pushkina st., 15, 10"
+                },
+                {
+                    "name": "Michel",
+                    "phoneNumber": "+1(424)235-2555",
+                    "address": "USA, Miami, Some st., 124, 24"
+                }
+            ]
+        }
+    ]
+}
